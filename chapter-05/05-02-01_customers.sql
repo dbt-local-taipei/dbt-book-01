@@ -1,55 +1,25 @@
-with customers as (
+with customers as (select * from `dbt-tutorial`.jaffle_shop.customers),
 
-    select
-        id as customer_id,
-        first_name,
-        last_name
+orders as (select * from `dbt-tutorial`.jaffle_shop.orders),
 
-    from `dbt-tutorial`.jaffle_shop.customers
-
+orders_grouped_by_customer_id as (
+	select
+    	user_id,
+    	count(id) as number_of_orders
+	from orders
+	group by user_id
 ),
 
-orders as (
-
-    select
-        id as order_id,
-        user_id as customer_id,
-        order_date,
-        status
-
-    from `dbt-tutorial`.jaffle_shop.orders
-
-),
-
-customer_orders as (
-
-    select
-        customer_id,
-
-        min(order_date) as first_order_date,
-        max(order_date) as most_recent_order_date,
-        count(order_id) as number_of_orders
-
-    from orders
-
-    group by 1
-
-),
-
-final as (
-
-    select
-        customers.customer_id,
-        customers.first_name,
-        customers.last_name,
-        customer_orders.first_order_date,
-        customer_orders.most_recent_order_date,
-        coalesce(customer_orders.number_of_orders, 0) as number_of_orders
-
-    from customers
-
-    left join customer_orders using (customer_id)
-
+customers_joined_with_orders as (
+	select
+    	t0.id as customer_id,
+    	t0.first_name,
+    	t0.last_name,
+    	coalesce(t1.number_of_orders, 0) as number_of_orders
+	from customers as t0
+	left join
+    	orders_grouped_by_customer_id as t1
+    	on t0.id = t1.user_id
 )
 
-select * from final
+select * from customers_joined_with_orders
