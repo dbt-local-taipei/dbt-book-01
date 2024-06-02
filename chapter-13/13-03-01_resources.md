@@ -1,11 +1,16 @@
-# 延伸閱讀
+# 線上資源
 
-- 其他資料人也有類似的期待
-  - https://locallyoptimistic.com/post/hello-product-data-team-goodbye-ad-hoc-work/
-  - https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/
-- Data Product Production, 推薦 Benn's Thoughts on Production 好文值得一讀 https://benn.substack.com/p/what-is-production 
-- 釐清 Data 需求的方法 An Intake Form for Data Requests: https://www.caitlinhudon.com/posts/2020/09/16/data-intake-form 
-- Problem-solving frameworks
-  - Continuous Discovery: https://www.producttalk.org/ 
-  - Cracked it: http://cracked-it-book.com/wp-content/uploads/CRACKED-IT-4S-method-in-one-page-v2.pdf 
-  - 8 Steps to Problem-Solving from McKinsey: https://medium.com/@IliyanaStareva/8-step-framework-to-problem-solving-from-mckinsey-506823257b48 
+- Data ATM 是從 Tom Sung 那邊學到的。他在FB發過一篇「[數據分析師會走向泡沫化嗎？](https://www.facebook.com/PoSheng.Sung/posts/pfbid012QGP9pcw7WBR2rF6LuSJUxrN1bhHbeosqKBU5fEZRcneJJN8ut7atCRuPs3qbEyl」提到大多數的公司是將 Data team 視為後勤，並沒有真的要推動數據驅動文化。這篇文章被分享超過 800 多次，當時支持與反對這個論點的意見都熱烈討論。 
+- Power BI：https://powerbi.microsoft.com/
+- Tableau：https://www.tableau.com/
+- Looker：https://cloud.google.com/looker
+- Looker Studio：https://lookerstudio.google.com/
+- Redash：https://redash.io/
+- Superset：https://superset.apache.org/
+- Rows：https://rows.com/
+- Mode：https://mode.com/
+- Thoughtspot：https://thoughtspot.com/
+- Lightdash：https://www.lightdash.com/
+- Deepnote：https://deepnote.com/
+- Metabase：https://www.metabase.com/
+- Thoughtspot 買下 Mode 的新聞：https://mode.com/blog/thoughtspot-acquires-mode

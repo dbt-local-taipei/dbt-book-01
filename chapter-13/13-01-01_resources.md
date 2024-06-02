@@ -1,4 +1,5 @@
-# 延伸閱讀
+# 線上資源
 
-- Analytic Engineer 介紹: https://www.getdbt.com/what-is-analytics-engineering/ 
-- 推薦一篇超級完整的文章，作者介紹 Data team 如何因應公司不同階段調整多種模式 How should our company structure our data team? https://medium.com/super/how-should-our-company-structure-our-data-team-e71f6846024d 
+- [Data Literacy 資料素養](https://en.wikipedia.org/wiki/Data_literacy)
+- [研究顯示，採用數據決策的公司獲利比同業高](https://cloud.google.com/blog/transform/data-leaders-more-profitable-innovative-hbr-data)
+- Data Maturity Assessment: https://data.org/dma/ 
