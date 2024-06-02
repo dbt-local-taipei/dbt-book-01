@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: customers
+    description: This table combines customer information with order data to show how many orders each customer has placed.
+    columns:
+      - name: customer_id
+        description: The unique identifier of customers.
+        tests:
+          - unique
+          - not_null
+      - name: first_name
+        description: First name of the customer.
+      - name: last_name
+        description: Last name of the customer.
+      - name: number_of_orders
+        description: Total number of orders of the customer.
