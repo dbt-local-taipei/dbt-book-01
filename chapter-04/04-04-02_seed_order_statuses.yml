@@ -1,0 +1,17 @@
+version: 2
+
+seeds:
+ - name: seed_order_statuses
+   description: Mapping table for order statuses
+   config:
+     column_types:
+       status: string
+       is_valid: boolean
+   columns:
+     - name: status
+       description: Order statuses
+       tests:
+         - unique
+         - not_null
+     - name: is_valid
+       description: Return and return pending are considered as invalid
