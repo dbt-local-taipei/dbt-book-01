@@ -1,4 +1,4 @@
-# 延伸閱讀
+# dbt Assist官方資源
 
 About dbt Assist  
 https://docs.getdbt.com/docs/cloud/dbt-assist
