@@ -1,16 +1,7 @@
 # 線上資源
 
-- Data ATM 是從 Tom Sung 那邊學到的。他在FB發過一篇「[數據分析師會走向泡沫化嗎？](https://www.facebook.com/PoSheng.Sung/posts/pfbid012QGP9pcw7WBR2rF6LuSJUxrN1bhHbeosqKBU5fEZRcneJJN8ut7atCRuPs3qbEyl」提到大多數的公司是將 Data team 視為後勤，並沒有真的要推動數據驅動文化。這篇文章被分享超過 800 多次，當時支持與反對這個論點的意見都熱烈討論。 
-- Power BI：https://powerbi.microsoft.com/
-- Tableau：https://www.tableau.com/
-- Looker：https://cloud.google.com/looker
-- Looker Studio：https://lookerstudio.google.com/
-- Redash：https://redash.io/
-- Superset：https://superset.apache.org/
-- Rows：https://rows.com/
-- Mode：https://mode.com/
-- Thoughtspot：https://thoughtspot.com/
-- Lightdash：https://www.lightdash.com/
-- Deepnote：https://deepnote.com/
-- Metabase：https://www.metabase.com/
-- Thoughtspot 買下 Mode 的新聞：https://mode.com/blog/thoughtspot-acquires-mode
+- [How to scale data](https://www.youtube.com/watch?v=iBNSEbKnFBI&t=7275s)：Singapore dbt Meetup發起人Jolanda來台灣的分享。
+- [dbt Taipei Meetup 非常歡迎講者報名](https://www.notion.so/ijac/c9c1a97c9fcb4553a533183dc62c106a?v=38977028d95a481fb675fbb1fc910c2a)。
+- [Comprehensible Output Hypothesis](https://en.wikipedia.org/wiki/Comprehensible_output)。
+- [運用dbt確保End-to-End資料品質](https://hwdc.ithome.com.tw/2024/session-page/3248)：Bruce在Hello World Dev Conference上的演講。
+- [Taipei dbt Meetup Medium](https://medium.com/dbt-local-taiwan)。

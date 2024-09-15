@@ -1,7 +1,7 @@
 # 如何用 Git Clone 的方式連結 GitHub Repository
 
 
-首先，由 GitHub Repository 取得 SSH URL，例如下圖的˙：git@github.com:olycats/dbt-demo.git
+首先，由 GitHub Repository 取得 SSH URL，例如下圖的：git@github.com:olycats/dbt-demo.git
 ![https://ithelp.ithome.com.tw/upload/images/20230803/201595751Z4fLNmI1g.png](https://ithelp.ithome.com.tw/upload/images/20230803/201595751Z4fLNmI1g.png)
 
 
