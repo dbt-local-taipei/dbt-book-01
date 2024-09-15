@@ -1,5 +1,5 @@
 # 線上資源
 
-- [What Is Data Infrastructure? A Simple Overview](https://www.digitalguardian.com/blog/what-data-infrastructure-simple-overview)
-- [Data Quality Framework](https://www.getdbt.com/blog/data-quality-framework)
-- [What is Data Governance](https://cloud.google.com/learn/what-is-data-governance)
+- [Data Literacy](https://en.wikipedia.org/wiki/Data_literacy)： 資料素養。
+- [研究顯示，採用數據決策的公司獲利比同業高](https://cloud.google.com/blog/transform/data-leaders-more-profitable-innovative-hbr-data)。
+- [Data Maturity Assessment](https://data.org/dma/)。 
