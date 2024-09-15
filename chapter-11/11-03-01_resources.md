@@ -14,4 +14,4 @@
   - Lightdash：https://www.lightdash.com/
   - Deepnote：https://deepnote.com/
   - Metabase：https://www.metabase.com/
-- Thoughtspot 買下 Mode 的新聞：https://mode.com/blog/thoughtspot-acquires-mode
+- Thoughtspot 買下 Mode 的新聞：https://mode.com/blog/thoughtspot-acquires-mode。

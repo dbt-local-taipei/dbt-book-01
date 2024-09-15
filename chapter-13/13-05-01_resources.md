@@ -9,4 +9,4 @@
 - [Emilies Schario](http://emilieschario.com/)
 - [syntax error at or near "<3" ](https://compilerqueen.substack.com/)
 - [歡迎加入dbt community](https://www.getdbt.com/community/join-the-community) 到 #local-taipei找我們
-- 實體及線上Meetup請到[dbt Taipei Meetup](https://www.meetup.com/taipei-dbt-meetup/)報名參加
+- 實體及線上Meetup請到[Taipei dbt Meetup](https://www.meetup.com/taipei-dbt-meetup/)報名參加
