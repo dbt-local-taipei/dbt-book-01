@@ -7,4 +7,4 @@
 - [What is Analytics Engineering](https://www.getdbt.com/what-is-analytics-engineering)：說明Analytics Engineer的起源。
 - [2024 State of Analytics Engineering](https://www.getdbt.com/resources/reports/state-of-analytics-engineering-2024)：2024年dbt Labs做的Analytics Engineering調查。
 - 參考其他 Analytics Engineer 的故事：[Adam Stone](https://www.getdbt.com/data-careers/adam-stone)。
-
+- [The Analytics Development Lifecycle (ADLC)](https://www.getdbt.com/resources/guides/the-analytics-development-lifecycle)：Tristan提出分析工程的開發流程。
