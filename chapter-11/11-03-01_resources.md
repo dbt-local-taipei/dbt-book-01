@@ -1,6 +1,6 @@
 # 線上資源
 
-- Data ATM 是從 Tom Sung 那邊學到的。他在FB發過一篇「[數據分析師會走向泡沫化嗎？](https://www.facebook.com/PoSheng.Sung/posts/pfbid012QGP9pcw7WBR2rF6LuSJUxrN1bhHbeosqKBU5fEZRcneJJN8ut7atCRuPs3qbEyl」提到大多數的公司是將 Data team 視為後勤，並沒有真的要推動數據驅動文化。這篇文章被分享超過 800 多次，當時支持與反對這個論點的意見都熱烈討論。 
+- Data ATM 是從 Tom Sung 那邊學到的。他在FB發過一篇「[數據分析師會走向泡沫化嗎？](https://www.facebook.com/PoSheng.Sung/posts/pfbid012QGP9pcw7WBR2rF6LuSJUxrN1bhHbeosqKBU5fEZRcneJJN8ut7atCRuPs3qbEyl)」提到大多數的公司是將 Data team 視為後勤，並沒有真的要推動數據驅動文化。這篇文章被分享超過 800 多次，當時支持與反對這個論點的意見都熱烈討論。 
 - 提到的BI工具網站：
   - Power BI：https://powerbi.microsoft.com/
   - Tableau：https://www.tableau.com/
