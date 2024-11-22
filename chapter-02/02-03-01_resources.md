@@ -1,4 +1,4 @@
 # 線上資源
 
 - [Know the difference between data-informed and versus data-driven](https://andrewchen.com/know-the-difference-between-data-informed-and-versus-data-driven/)：Andrew Chen說明data-informed與data-driven的差異。
-- [Data informed decision-making](https://www.notion.so/dbt-ed17983f32d74c7e9878a4c727f3b609?pvs=21)：維基百科頁面。
+- [Data informed decision-making](https://en.wikipedia.org/wiki/Data-informed_decision-making)：維基百科頁面。
