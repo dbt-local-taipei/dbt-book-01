@@ -1,4 +1,5 @@
-# 線上資源
+# 套件elementary補充資料
 
-- [Recce官網](https://datarecce.io)：Recce是一個專為dbt專案設計的Pull Request（PR）審查工具。
-- [Recce官方文件](https://datarecce.io/docs/)：說明如何安裝和使用Recce。
+- [elementary更多test介紹](https://docs.elementary-data.com/guides/anomaly-detection-tests/volume-anomalies)
+- [elementary dashboard設定步驟](https://docs.elementary-data.com/oss/guides/generate-report-ui)
+- [elementary alert設定](https://docs.elementary-data.com/oss/guides/alerts/send-slack-alerts)
